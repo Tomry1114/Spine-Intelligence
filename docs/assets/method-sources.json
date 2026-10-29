@@ -10,21 +10,21 @@
       546,
       286
     ],
-    "asset": "vit3flow-method.svg",
-    "export": "Original PDF figure, vector export; no redrawing or connection changes."
+    "asset": "vit3flow-flow.svg",
+    "export": "Redrawn SVG inference flow grounded in Figure 2 and equations (5)-(7); source radiographs are unchanged Figure 5 case 1 crops. No novel modules introduced."
   },
   {
     "project": "spinechat",
     "source_filename": "JBHI_special_issue_9_30_Final.pdf",
-    "pdf_page": 5,
-    "figure": "Figure 2",
+    "pdf_page": 4,
+    "figure": "Figure 1",
     "figure_bounds_points": [
-      49,
-      54,
+      48,
+      52,
       564,
-      285
+      274
     ],
-    "asset": "spinechat-method.svg",
-    "export": "Original PDF figure, vector export; no redrawing or connection changes."
+    "asset": "spinechat-workflow.svg",
+    "export": "Original two-turn workflow, exported from manuscript without redrawing."
   }
 ]
