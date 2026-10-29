@@ -19,8 +19,8 @@
 | **ViT3Flow** | Patient-specific postoperative radiograph synthesis | [Visit project ↗](https://Tomry1114.github.io/Spine-Family/vit3flow.html) | Coming soon |
 | **SpineChat** | Multi-turn multimodal spinal deformity assessment | [Visit project ↗](https://Tomry1114.github.io/Spine-Family/spinechat.html) | [GitHub](https://github.com/Tomry1114/SpineChat) |
 
-<a href="https://Tomry1114.github.io/Spine-Family/vit3flow.html"><img src="docs/assets/vit3flow.png" alt="ViT3Flow — click to open project page" width="49%"></a>
-<a href="https://Tomry1114.github.io/Spine-Family/spinechat.html"><img src="docs/assets/spinechat.png" alt="SpineChat — click to open project page" width="49%"></a>
+<a href="https://Tomry1114.github.io/Spine-Family/vit3flow.html"><img src="docs/assets/vit3flow-preview.svg" alt="ViT3Flow — click to open project page" width="49%"></a>
+<a href="https://Tomry1114.github.io/Spine-Family/spinechat.html"><img src="docs/assets/spinechat-preview.svg" alt="SpineChat — click to open project page" width="49%"></a>
 
 ## Resources
 
