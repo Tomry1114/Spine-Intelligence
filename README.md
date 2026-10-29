@@ -26,6 +26,16 @@
 | **ScoliSurg** | ViT3Flow | Coming soon |
 | **SpineVQA** | SpineChat | Coming soon |
 
-## References
+## Citation
 
-Rui Tang, Sicheng Yang, Moxin Zhao, Hongqiu Wang, Guankun Wang, Lei Zhu, Hongliang Ren, Menglin Cong, and Nan Meng. **[ViT3Flow: A Test-Time Training Transformer MeanFlow for Postoperative Radiograph Synthesis in Scoliosis](https://arxiv.org/abs/2609.05579)**. arXiv:2609.05579, 2026.
+If you find our work helpful, please cite:
+
+```bibtex
+@article{tang2026vit3flow,
+  title={{ViT3Flow}: A Test-Time Training Transformer {MeanFlow} for Postoperative Radiograph Synthesis in Scoliosis},
+  author={Tang, Rui and Yang, Sicheng and Zhao, Moxin and Wang, Hongqiu and Wang, Guankun and Zhu, Lei and Ren, Hongliang and Cong, Menglin and Meng, Nan},
+  journal={arXiv preprint arXiv:2609.05579},
+  year={2026},
+  url={https://arxiv.org/abs/2609.05579}
+}
+```
