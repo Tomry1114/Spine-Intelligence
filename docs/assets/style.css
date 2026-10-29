@@ -29,3 +29,11 @@
 /* Compact Roman italic titles for both paper project pages. */
 .paper-project .hero h1{font-family:"Times New Roman",Times,serif;font-style:italic;font-weight:400;font-size:clamp(29px,2.7vw,36px);line-height:1.22;letter-spacing:0;max-width:1000px;text-wrap:balance}
 @media(max-width:700px){.paper-project .hero h1{font-size:29px;line-height:1.22}}
+
+/* Consistent Roman italic typography for the index and author affiliations. */
+.project-index,.paper-project .authors,.paper-project .affiliations,.paper-project footer{font-family:"Times New Roman",Times,serif;font-style:italic;font-weight:400}
+.project-index .hero h1{font-family:"Times New Roman",Times,serif;font-style:italic;font-weight:400;font-size:clamp(29px,2.7vw,36px);line-height:1.22;letter-spacing:0}
+.project-index .family-card h2{font-family:"Times New Roman",Times,serif;font-style:italic;font-weight:400;letter-spacing:0}
+.paper-project .authors{font-size:19px}
+.paper-project .affiliations{font-size:16px;line-height:1.55;max-width:900px}
+@media(max-width:700px){.paper-project .authors{font-size:17px}.paper-project .affiliations{font-size:15px}}
