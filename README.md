@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Spine Intelligence*
+# ***Spine Intelligence***
 
 ### *Advancing Spine Imaging, Understanding, and Clinical Intelligence*
 
