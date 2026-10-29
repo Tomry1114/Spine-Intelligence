@@ -1,0 +1,30 @@
+[
+  {
+    "project": "vit3flow",
+    "source_filename": "ViT3Flow_MIA_Final.pdf",
+    "pdf_page": 7,
+    "figure": "Figure 2",
+    "figure_bounds_points": [
+      50,
+      55,
+      546,
+      286
+    ],
+    "asset": "vit3flow-method.svg",
+    "export": "Original PDF figure, vector export; no redrawing or connection changes."
+  },
+  {
+    "project": "spinechat",
+    "source_filename": "JBHI_special_issue_9_30_Final.pdf",
+    "pdf_page": 5,
+    "figure": "Figure 2",
+    "figure_bounds_points": [
+      49,
+      54,
+      564,
+      285
+    ],
+    "asset": "spinechat-method.svg",
+    "export": "Original PDF figure, vector export; no redrawing or connection changes."
+  }
+]
