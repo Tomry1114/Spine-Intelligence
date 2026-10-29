@@ -1,8 +1,8 @@
 <div align="center">
 
-# Intelligent Spine Family
+# Spine Intelligence
 
-### AI for Spinal Deformity Assessment and Postoperative Radiograph Synthesis
+### Advancing Spine Imaging, Understanding, and Clinical Intelligence
 
 **Multimodal assessment · Clinical evidence grounding · Postoperative synthesis**
 
@@ -10,7 +10,7 @@
 
 </div>
 
-**Intelligent Spine Family** brings together our research on AI for spinal deformity assessment and scoliosis surgical planning. Explore each project's dedicated page for its graphical abstract and resources.
+**Spine Intelligence** brings together our research on AI for spinal deformity assessment and scoliosis surgical planning. Explore each project's dedicated page for its graphical abstract and resources.
 
 ## Projects
 
@@ -19,8 +19,8 @@
 | **ViT3Flow** | Patient-specific postoperative radiograph synthesis | [Visit project ↗](https://Tomry1114.github.io/Spine-Family/vit3flow.html) | Coming soon |
 | **SpineChat** | Multi-turn multimodal spinal deformity assessment | [Visit project ↗](https://Tomry1114.github.io/Spine-Family/spinechat.html) | [GitHub](https://github.com/Tomry1114/SpineChat) |
 
-<a href="https://Tomry1114.github.io/Spine-Family/vit3flow.html"><img src="docs/assets/cases/vit-0-2.png" alt="ViT3Flow — click to open project page" width="49%"></a>
-<a href="https://Tomry1114.github.io/Spine-Family/spinechat.html"><img src="docs/assets/cases/spine-0-1.png" alt="SpineChat — click to open project page" width="49%"></a>
+<a href="https://Tomry1114.github.io/Spine-Family/vit3flow.html"><img src="docs/assets/vit3flow.png" alt="ViT3Flow — click to open project page" width="49%"></a>
+<a href="https://Tomry1114.github.io/Spine-Family/spinechat.html"><img src="docs/assets/spinechat.png" alt="SpineChat — click to open project page" width="49%"></a>
 
 ## Resources
 
