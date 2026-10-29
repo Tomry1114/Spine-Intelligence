@@ -1,6 +1,6 @@
 <div align="center">
 
-# Spine Family
+# Intelligent Spine Family
 
 ### AI for Spinal Deformity Assessment and Postoperative Radiograph Synthesis
 
@@ -10,7 +10,7 @@
 
 </div>
 
-**Spine Family** brings together our research on AI for spinal deformity assessment and scoliosis surgical planning. Explore each project's dedicated page for its graphical abstract and resources.
+**Intelligent Spine Family** brings together our research on AI for spinal deformity assessment and scoliosis surgical planning. Explore each project's dedicated page for its graphical abstract and resources.
 
 ## Projects
 
